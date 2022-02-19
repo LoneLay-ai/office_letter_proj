@@ -1,0 +1,11 @@
+.content {
+    width: 100%;
+    display: flex;
+    color: rgb(68, 66, 66);
+}
+.side_bar {
+    width: 20%;
+}
+.content_data {
+    width: 80%;
+}
